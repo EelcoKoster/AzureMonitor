@@ -1,0 +1,4 @@
+/AzureMonitor/bin/
+/AzureMonitor/obj/
+/.vs/
+!.gitignore
